@@ -4,12 +4,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/GamesFullZ/GamesFullZ/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://www.youtube.com/@ValthxV" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="youtube logo"  />
