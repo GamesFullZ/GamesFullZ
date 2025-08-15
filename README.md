@@ -14,17 +14,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.youtube.com/@ValthxV" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://web.telegram.org/k/#-4959297719" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="35" alt="telegram logo"  />
-  </a>
-</div>
-
-###
-
 <img align="left" height="250" src="https://i.pinimg.com/originals/67/5b/b6/675bb6b2ea36a6d4f5c32ffc9744147d.gif"  />
 
 ###
